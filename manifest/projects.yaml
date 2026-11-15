@@ -1,0 +1,14 @@
+version: 1
+projects:
+  - id: ptl
+    name: PTL项目
+    description: ""
+    resources:
+      knowledge:
+        - ns1
+      skills:
+        - ns1
+      learnings:
+        - ns1
+      agents:
+        - ns1
