@@ -12,3 +12,15 @@ projects:
         - ns1
       agents:
         - ns1
+  - id: iam
+    name: IAM项目
+    description: ""
+    resources:
+      knowledge:
+        - ns1 ns3
+      skills:
+        - ns1 ns3
+      learnings:
+        - ns1 ns3
+      agents:
+        - ns1 ns3
