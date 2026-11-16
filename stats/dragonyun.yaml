@@ -1,5 +1,5 @@
 username: dragonyun
-updatedAt: 2026-11-16T13:04:34.238Z
+updatedAt: 2026-11-16T14:10:43.548Z
 skills:
   teamai:
     count: 1
@@ -17,9 +17,9 @@ attended:
     correction: 0
   prompts: 4
   tokens:
-    input: 100979
-    output: 9758
-    cacheRead: 1537280
+    input: 194578
+    output: 15615
+    cacheRead: 1728256
     cacheCreation: 0
   daily:
     2026-11-14:
@@ -44,11 +44,22 @@ attended:
       cacheReadTokens: 118272
       cacheEligibleInputTokens: 155250
       priceVersion: litellm-2026-10-31-b264711
+    2026-11-16:
+      sessionsEnded: 1
+      sessionsSucceeded: 1
+      promptTurns: 1
+      durationMs: 478485
+      sessionsCorrected: 0
+      pricedRequests: 49
+      costMicros: 148632
+      cacheReadTokens: 190976
+      cacheEligibleInputTokens: 284575
+      priceVersion: litellm-2026-10-31-b264711
 prompts: 4
 tokens:
-  input: 100979
-  output: 9758
-  cacheRead: 1537280
+  input: 194578
+  output: 15615
+  cacheRead: 1728256
   cacheCreation: 0
 daily:
   2026-11-14:
@@ -72,6 +83,17 @@ daily:
     costMicros: 76165
     cacheReadTokens: 118272
     cacheEligibleInputTokens: 155250
+    priceVersion: litellm-2026-10-31-b264711
+  2026-11-16:
+    sessionsEnded: 1
+    sessionsSucceeded: 1
+    promptTurns: 1
+    durationMs: 478485
+    sessionsCorrected: 0
+    pricedRequests: 49
+    costMicros: 148632
+    cacheReadTokens: 190976
+    cacheEligibleInputTokens: 284575
     priceVersion: litellm-2026-10-31-b264711
 outcomes:
   attended:
