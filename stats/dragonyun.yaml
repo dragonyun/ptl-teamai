@@ -1,5 +1,5 @@
 username: dragonyun
-updatedAt: 2026-11-16T15:22:56.604Z
+updatedAt: 2026-11-19T14:21:35.718Z
 skills:
   teamai:
     count: 2
@@ -98,8 +98,8 @@ daily:
 outcomes:
   attended:
     none:
-      sessions: 2
+      sessions: 6
       tokens:
-        input: 100979
-        output: 9758
+        input: 194578
+        output: 15615
       interventions: 0
